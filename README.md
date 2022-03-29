@@ -18,8 +18,6 @@
 ## Getting Started
 
 
-
-
 To get a local copy up and running follow these simple example steps.
 
 1. git clone git@github.com:oshanedesign/to-Do-List.git
