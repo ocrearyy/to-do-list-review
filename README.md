@@ -7,7 +7,7 @@
 
 ## Built With
 
-- HTML5. CSS3, Javascript, webpack, Linters
+- HTML5. CSS3, Javascript, webpack, Linters.
 
 
 ## Live Demo (if available)
