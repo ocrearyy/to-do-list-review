@@ -9,6 +9,10 @@
 
 - HTML5. CSS3, Javascript, webpack, Linters
 
+# Screenshot 
+
+![e67](https://user-images.githubusercontent.com/40554384/168449240-ff405e5b-eeb1-48a0-ba2c-da4617f90b30.PNG)
+
 
 ## Live Demo (if available)
 
@@ -31,6 +35,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@oshanedesign](https://github.com/oshanedesign)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oshane-design-ab2631237)
+- Twitter: [@twitterhandle](https://twitter.com/oshanedesign)
 
 
 ## 🤝 Contributing
